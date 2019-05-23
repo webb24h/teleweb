@@ -1,4 +1,4 @@
-# teleweb
+# Teleweb Light version 1.0
 This is the official PHP repository for Teleweb Light v1.
 
 About
