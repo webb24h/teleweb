@@ -11,7 +11,7 @@ Teleweb is the last call center software you will ever need. It is the only solu
 
 
 # Screenshot
-![alt text](https://a.fsdn.com/con/app/proj/teleweb-light-v1/screenshots/webb24h_screenshot_call_Center.png/245/183/1)
+![alt text](https://a.fsdn.com/con/app/proj/teleweb-light-v1/screenshots/webb24h_screenshot_call_Center.png/max/max/1)
 
 
 # Pre-Requisites
