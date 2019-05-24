@@ -9,6 +9,11 @@ This is the official PHP repository for Teleweb Light v1.
 
 Teleweb is the last call center software you will ever need. It is the only solution out there that is completely wireless and hosted online. No need for landline, softphone or Voip. All you need is your computer, a headset and you can call the world online. 
 
+
+# Call Center Screenshot
+![alt text](https://a.fsdn.com/con/app/proj/teleweb-light-v1/screenshots/webb24h_screenshot_call_Center.png/245/183/1)
+
+
 # Pre-Requisites
 - Php 5.6 or higher
 - Apache Server 
