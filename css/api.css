@@ -1,0 +1,42 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 22 mai 2019, 15:15:11
+    Author     : Marie-Eva BB Volmar
+*/
+  body {
+    position: relative;
+  }
+  .affix {
+    top: 80px;
+    z-index: 9999 !important;
+  }
+  div.col-sm-9 div {
+      width: 100%;
+    height: auto;
+    font-size: 28px;
+  }
+  
+  @media screen and (max-width: 810px) {
+    #section1, #section2, #section3, #section41, #section42  {
+      margin-left: 150px;
+    }
+  }
+  
+  .contentTable{
+      margin-top:5% !important;
+  }
+h1{
+      border-bottom : 1px solid whitesmoke;
+  }
+  
+  .section p{
+      line-height: 200%;
+  }
+  
+  .section{
+      margin-bottom: 30%;
+  }
