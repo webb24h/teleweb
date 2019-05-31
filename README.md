@@ -11,13 +11,21 @@ Teleweb is a simple but very efficient call center software. It is the only solu
 
 # Intented Audience
 Information Technology
+
 Customer Service
+
 Telecommunications Industry
+
 System Administrators
+
 Developers
+
 Management
+
 Telesales Team
+
 Telemarketing Office
+
 Business
 
 
