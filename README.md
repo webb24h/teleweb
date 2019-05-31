@@ -54,8 +54,11 @@ Business
 
 # Pre-Requisites
 - Php 5.6 or higher
-- Apache Server 
-- MySQL
+- Apache Server 2.0
+- MySQL 5.0 or higher
+
+# License
+MIT License, GNU General Public License version 3.0 (GPLv3)
 
 
 # How to install
