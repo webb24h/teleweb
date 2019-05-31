@@ -9,6 +9,19 @@ This is the official PHP repository for Teleweb Light v1.
 
 Teleweb is a simple but very efficient call center software. It is the only solution out there that is completely wireless and hosted online. No need for landline, softphone or Voip. All you need is your computer, a headset and you can call the world online. 
 
+# Intented Audience
+Information Technology
+Customer Service
+Telecommunications Industry
+System Administrators
+Developers
+Management
+Telesales Team
+Telemarketing Office
+Business
+
+
+
 # Features
     - Outbound Calling
     - Incoming Calling
