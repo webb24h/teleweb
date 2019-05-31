@@ -12,15 +12,19 @@ Teleweb is a simple but very efficient call center software. It is the only solu
 # Features
     - Outbound Calling
     - Incoming Calling
-    - Call Recordings & Listening
+    - Call Recordings
+    - Call Listening
     - Call Logs
     - Call Statistics
     - Outbound Emailing
-    - Create And Update Agents
+    - Create Agents
+    - Update Agents
     - Agent Performance Statistics
-    - Create And Update Campaigns
+    - Create Campaigns
+    - Update Campaigns
     - Campaign Performance Statistics
-    - Account & Business Number Settings
+    - Account Settings
+    - Business Number Settings
 
 
 # Screenshot
