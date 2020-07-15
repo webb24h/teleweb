@@ -1,3 +1,5 @@
+#THIS VERSION IS NO LONGER SUPPORTED
+
 # Teleweb Light version 1.0
 ![alt text](https://github.com/webb24h/teleweb/blob/master/teleweb_info_2.png)
 
