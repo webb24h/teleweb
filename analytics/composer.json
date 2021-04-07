@@ -54,7 +54,7 @@
         "aws/aws-sdk-php": "2.7.1",
         "phpunit/phpunit": "~4.8",
         "facebook/xhprof": "dev-master",
-        "phpseclib/phpseclib": "~0.3.8",
+        "phpseclib/phpseclib": "~2.0.31",
         "symfony/var-dumper": "~2.6.0",
         "symfony/yaml": "~2.6.0"
     },
